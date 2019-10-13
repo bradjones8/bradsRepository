@@ -17,20 +17,20 @@
 		E20885B42336B870005A7342 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E20885B32336B870005A7342 /* WebKit.framework */; };
 		E20885BB2336D83A005A7342 /* IPHONEXRBACK.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E20885BA2336D83A005A7342 /* IPHONEXRBACK.jpg */; };
 		E20885BD23371A8D005A7342 /* Register-Button-Transparent-PNG.png in Resources */ = {isa = PBXBuildFile; fileRef = E20885BC23371A8D005A7342 /* Register-Button-Transparent-PNG.png */; };
-		E20885C123371EAE005A7342 /* aboutButtonPNG.png in Resources */ = {isa = PBXBuildFile; fileRef = E20885C023371EAE005A7342 /* aboutButtonPNG.png */; };
 		E20885C523372392005A7342 /* applePNG.png in Resources */ = {isa = PBXBuildFile; fileRef = E20885C423372392005A7342 /* applePNG.png */; };
 		E20885C72337252D005A7342 /* UserClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = E20885C62337252D005A7342 /* UserClass.swift */; };
 		E20885C923372543005A7342 /* registrationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E20885C823372543005A7342 /* registrationViewController.swift */; };
 		E20885CB23372552005A7342 /* aboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E20885CA23372552005A7342 /* aboutViewController.swift */; };
 		E20885CD2337256C005A7342 /* webkitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E20885CC2337256C005A7342 /* webkitViewController.swift */; };
 		E20885D22338116D005A7342 /* IMG_0665.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E20885D12338116D005A7342 /* IMG_0665.jpg */; };
+		E28BCFDB2353E6DB00A08636 /* MyDatabase.db in Resources */ = {isa = PBXBuildFile; fileRef = E28BCFDA2353E6DB00A08636 /* MyDatabase.db */; };
+		E28BCFDF2353E7BE00A08636 /* aboutButtonPNG.png in Resources */ = {isa = PBXBuildFile; fileRef = E28BCFDE2353E7BE00A08636 /* aboutButtonPNG.png */; };
 		E2A41D282352758B003856EB /* beanAvatar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E2A41D242352758B003856EB /* beanAvatar.jpg */; };
 		E2A41D292352758B003856EB /* maleAvatar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E2A41D252352758B003856EB /* maleAvatar.jpg */; };
 		E2A41D2A2352758B003856EB /* femaleAvatar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E2A41D262352758B003856EB /* femaleAvatar.jpg */; };
 		E2A41D2B2352758B003856EB /* assImageSign.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E2A41D272352758B003856EB /* assImageSign.jpg */; };
 		E2A41D2D235275A2003856EB /* avatarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2A41D2C235275A2003856EB /* avatarViewController.swift */; };
 		E2AA77DB23538D9A004C2AF3 /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = E2AA77DA23538D84004C2AF3 /* libsqlite3.tbd */; };
-		E2AA77DF23539A6B004C2AF3 /* MyDatabase.db in Resources */ = {isa = PBXBuildFile; fileRef = E2AA77DE23539A6A004C2AF3 /* MyDatabase.db */; };
 		E2AA77E32353B5A5004C2AF3 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2AA77E22353B5A5004C2AF3 /* TableViewController.swift */; };
 		E2AA77E72353B86F004C2AF3 /* findUser.png in Resources */ = {isa = PBXBuildFile; fileRef = E2AA77E62353B86F004C2AF3 /* findUser.png */; };
 		E2AA77E92353BD0C004C2AF3 /* SiteCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2AA77E82353BD0C004C2AF3 /* SiteCell.swift */; };
@@ -70,13 +70,14 @@
 		E20885B32336B870005A7342 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
 		E20885BA2336D83A005A7342 /* IPHONEXRBACK.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IPHONEXRBACK.jpg; sourceTree = "<group>"; };
 		E20885BC23371A8D005A7342 /* Register-Button-Transparent-PNG.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Register-Button-Transparent-PNG.png"; sourceTree = "<group>"; };
-		E20885C023371EAE005A7342 /* aboutButtonPNG.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = aboutButtonPNG.png; path = ../../../../aboutButtonPNG.png; sourceTree = "<group>"; };
 		E20885C423372392005A7342 /* applePNG.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = applePNG.png; sourceTree = "<group>"; };
 		E20885C62337252D005A7342 /* UserClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserClass.swift; sourceTree = "<group>"; };
 		E20885C823372543005A7342 /* registrationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = registrationViewController.swift; sourceTree = "<group>"; };
 		E20885CA23372552005A7342 /* aboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aboutViewController.swift; sourceTree = "<group>"; };
 		E20885CC2337256C005A7342 /* webkitViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = webkitViewController.swift; sourceTree = "<group>"; };
 		E20885D12338116D005A7342 /* IMG_0665.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0665.jpg; sourceTree = "<group>"; };
+		E28BCFDA2353E6DB00A08636 /* MyDatabase.db */ = {isa = PBXFileReference; lastKnownFileType = file; path = MyDatabase.db; sourceTree = "<group>"; };
+		E28BCFDE2353E7BE00A08636 /* aboutButtonPNG.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = aboutButtonPNG.png; path = ../../../Assignment1/Assignment1/Images/aboutButtonPNG.png; sourceTree = "<group>"; };
 		E2A41D242352758B003856EB /* beanAvatar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = beanAvatar.jpg; sourceTree = "<group>"; };
 		E2A41D252352758B003856EB /* maleAvatar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = maleAvatar.jpg; sourceTree = "<group>"; };
 		E2A41D262352758B003856EB /* femaleAvatar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = femaleAvatar.jpg; sourceTree = "<group>"; };
@@ -84,7 +85,6 @@
 		E2A41D2C235275A2003856EB /* avatarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = avatarViewController.swift; sourceTree = "<group>"; };
 		E2AA77DA23538D84004C2AF3 /* libsqlite3.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.tbd; path = usr/lib/libsqlite3.tbd; sourceTree = SDKROOT; };
 		E2AA77DC23538DAD004C2AF3 /* libsqlite3.0.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.0.tbd; path = usr/lib/libsqlite3.0.tbd; sourceTree = SDKROOT; };
-		E2AA77DE23539A6A004C2AF3 /* MyDatabase.db */ = {isa = PBXFileReference; lastKnownFileType = file; name = MyDatabase.db; path = ../../../../../../MyDatabase.db; sourceTree = "<group>"; };
 		E2AA77E22353B5A5004C2AF3 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		E2AA77E62353B86F004C2AF3 /* findUser.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = findUser.png; sourceTree = "<group>"; };
 		E2AA77E82353BD0C004C2AF3 /* SiteCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SiteCell.swift; sourceTree = "<group>"; };
@@ -182,6 +182,7 @@
 		E20885B52336B970005A7342 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				E28BCFDE2353E7BE00A08636 /* aboutButtonPNG.png */,
 				E2AA77E62353B86F004C2AF3 /* findUser.png */,
 				E2A41D272352758B003856EB /* assImageSign.jpg */,
 				E2A41D242352758B003856EB /* beanAvatar.jpg */,
@@ -190,7 +191,6 @@
 				E20885D12338116D005A7342 /* IMG_0665.jpg */,
 				E208858B2336B829005A7342 /* Assets.xcassets */,
 				E20885C423372392005A7342 /* applePNG.png */,
-				E20885C023371EAE005A7342 /* aboutButtonPNG.png */,
 				E20885BC23371A8D005A7342 /* Register-Button-Transparent-PNG.png */,
 				E20885BA2336D83A005A7342 /* IPHONEXRBACK.jpg */,
 			);
@@ -232,7 +232,7 @@
 		E2AA77DD23539888004C2AF3 /* Database */ = {
 			isa = PBXGroup;
 			children = (
-				E2AA77DE23539A6A004C2AF3 /* MyDatabase.db */,
+				E28BCFDA2353E6DB00A08636 /* MyDatabase.db */,
 			);
 			path = Database;
 			sourceTree = "<group>";
@@ -346,15 +346,15 @@
 				E20885BB2336D83A005A7342 /* IPHONEXRBACK.jpg in Resources */,
 				E2A41D2A2352758B003856EB /* femaleAvatar.jpg in Resources */,
 				E20885BD23371A8D005A7342 /* Register-Button-Transparent-PNG.png in Resources */,
-				E20885C123371EAE005A7342 /* aboutButtonPNG.png in Resources */,
 				E2A41D2B2352758B003856EB /* assImageSign.jpg in Resources */,
 				E2AA77E72353B86F004C2AF3 /* findUser.png in Resources */,
+				E28BCFDB2353E6DB00A08636 /* MyDatabase.db in Resources */,
+				E28BCFDF2353E7BE00A08636 /* aboutButtonPNG.png in Resources */,
 				E2A41D292352758B003856EB /* maleAvatar.jpg in Resources */,
 				E2A41D282352758B003856EB /* beanAvatar.jpg in Resources */,
 				E208858C2336B829005A7342 /* Assets.xcassets in Resources */,
 				E20885C523372392005A7342 /* applePNG.png in Resources */,
 				E208858A2336B829005A7342 /* Main.storyboard in Resources */,
-				E2AA77DF23539A6B004C2AF3 /* MyDatabase.db in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

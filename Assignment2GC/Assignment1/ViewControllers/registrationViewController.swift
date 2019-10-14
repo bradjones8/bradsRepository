@@ -188,6 +188,9 @@ class registrationViewController: UIViewController {
            }
        }
    
-    
+    func textFieldShouldReturn(_  textField : UITextField) -> Bool
+    {
+        return textField.resignFirstResponder()
+    }
     
 }

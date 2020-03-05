@@ -1,0 +1,11 @@
+C:\Users\Bradley\Desktop\IGTCodingChallenge\bin\Debug\IGTCodingChallenge.exe.config
+C:\Users\Bradley\Desktop\IGTCodingChallenge\bin\Debug\IGTCodingChallenge.exe
+C:\Users\Bradley\Desktop\IGTCodingChallenge\bin\Debug\IGTCodingChallenge.pdb
+C:\Users\Bradley\Desktop\IGTCodingChallenge\obj\Debug\IGTCodingChallenge.csprojAssemblyReference.cache
+C:\Users\Bradley\Desktop\IGTCodingChallenge\obj\Debug\IGTCodingChallenge.Properties.Resources.resources
+C:\Users\Bradley\Desktop\IGTCodingChallenge\obj\Debug\IGTCodingChallenge.csproj.GenerateResource.cache
+C:\Users\Bradley\Desktop\IGTCodingChallenge\obj\Debug\IGTCodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Bradley\Desktop\IGTCodingChallenge\obj\Debug\IGTCodingChallenge.exe
+C:\Users\Bradley\Desktop\IGTCodingChallenge\obj\Debug\IGTCodingChallenge.pdb
+C:\Users\Bradley\Desktop\IGTCodingChallenge\obj\Debug\IGTCodingChallenge.Form1.resources
+C:\Users\Bradley\Desktop\IGTCodingChallenge\obj\Debug\IGTCodingChallenge.Form2.resources

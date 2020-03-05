@@ -1,2 +1,2 @@
 # bradsRepository
-Save projects completed in school
+Personal projects and projects completed in school
